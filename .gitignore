@@ -1,6 +1,6 @@
 .DS_Store
 .docker-data/
-.gradle/
+.gradle
 build/
 **/build/
 **/.gradle/
