@@ -1,4 +1,0 @@
-iterations: 34187
-checks passed: 88.65%
-median HTTP request duration: 7.73ms
-HTTP requests failed: 11.34%
